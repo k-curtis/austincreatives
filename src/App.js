@@ -1,4 +1,4 @@
-import { Box, Typography, makeStyles, useTheme } from "material-ui";
+import { Box, Typography, makeStyles, useTheme } from "material-ui/core";
 
 const styles = (theme) => {
   return {
