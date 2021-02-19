@@ -8,7 +8,7 @@ import { ThemeProvider, createMuiTheme } from "@material-ui/core";
 
 const theme = createMuiTheme({
   typography: {
-    fontFamily: ["Big Shoulders Inline Display", "cursive"].join(","),
+    fontFamily: ["Teko", "sans-serif"].join(","),
   },
   palette: {
     light: "#fff",
